@@ -1,2 +1,2 @@
 # GENERATIVE_AI
-Generative ai project
+TNSDC_Generative ai project
